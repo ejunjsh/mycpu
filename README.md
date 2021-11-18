@@ -11,6 +11,7 @@
 | 数量 | 名字                   |
 | ---- | ---------------------- |
 | 15   | 面包板                 |
+| 1    | 5v 1a 电源和线         |
 | 1    | 电子铜线（规格22AWG）  |
 | 10   | 1kΩ 电阻               |
 | 9    | 10kΩ 电阻              |
@@ -53,6 +54,10 @@
 
 ### 注意事项
 
+#### 面包版
+
+<img src="https://github.com/ejunjsh/mycpu/raw/main/images/10.jpeg" width="50%" height="50%">
+
 #### 电源
 如果家有苹果的五福一安电源就够了，再淘宝买个usb转公线就可以了
 
@@ -61,23 +66,46 @@
 #### 电阻
 淘宝上买一袋袋的电阻，里面个种阻值都有
 
+<img src="https://github.com/ejunjsh/mycpu/raw/main/images/02.jpeg" width="50%" height="50%">
+
 #### 电容
-这个买103，104，105的电容就好，分别代表0.01µF ，0.1µF ，1µF 
+这个买103，104，105的电容就好，分别代表0.01µF ，0.1µF ，1µF ,淘宝也是一袋袋买的
+
+<img src="https://github.com/ejunjsh/mycpu/raw/main/images/03.jpeg" width="50%" height="50%">
 
 #### 电线相关
-买个剪线钳
+买个剪线钳，因为电线是AWG 22 规格，所以要买能剪这种线的
+
+<img src="https://github.com/ejunjsh/mycpu/raw/main/images/04.jpeg" width="50%" height="50%">
+
+电线AWG22 基本淘宝一搜一大捆，各种颜色买一下，好看😄
 
 #### 芯片
 上面芯片的数量是搭建cpu用到的芯片数量，如果是那种只有一个的芯片，最好买多个，这样你可以在有问题的时候，能够确定是不是芯片的问题
 
-#### 开关
+#### 按钮开关（自锁）
+
+<img src="https://github.com/ejunjsh/mycpu/raw/main/images/06.jpeg" width="50%" height="50%">
+
+#### 轻触开关
+
+<img src="https://github.com/ejunjsh/mycpu/raw/main/images/07.jpeg" width="50%" height="50%">
 
 #### LED
 淘宝买一袋袋的LED，各种颜色都有。
 
+<img src="https://github.com/ejunjsh/mycpu/raw/main/images/09.jpeg" width="50%" height="50%">
+
+
 #### 数码管
+买这种引脚在下面的，好插在面包版
+
+<img src="https://github.com/ejunjsh/mycpu/raw/main/images/05.jpeg" width="50%" height="50%">
 
 #### Arduino Nano
+焊接，带usb线
+
+<img src="https://github.com/ejunjsh/mycpu/raw/main/images/08.jpeg" width="50%" height="50%">
 
 ## 视频
 
