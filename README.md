@@ -68,6 +68,11 @@
 
 <img src="https://github.com/ejunjsh/mycpu/raw/main/images/02.jpeg" width="50%" height="50%">
 
+#### 电位器
+下图那种就可以了，但是这种扭起来不算很顺，你可以看看其他类似上面有颗比较大一点的旋钮的，这样扭起来好扭
+
+<img src="https://github.com/ejunjsh/mycpu/raw/main/images/12.jpeg" width="50%" height="50%">
+
 #### 电容
 这个买103，104，105的电容就好，分别代表0.01µF ，0.1µF ，1µF ,淘宝也是一袋袋买的
 
