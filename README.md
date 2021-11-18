@@ -107,7 +107,7 @@
 <img src="https://github.com/ejunjsh/mycpu/raw/main/images/05.jpeg" width="50%" height="50%">
 
 #### Arduino Nano
-焊接，带usb线
+已焊接针脚，带usb线
 
 <img src="https://github.com/ejunjsh/mycpu/raw/main/images/08.jpeg" width="50%" height="50%">
 
