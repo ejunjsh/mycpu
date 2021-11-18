@@ -55,7 +55,8 @@
 
 #### 电源
 如果家有苹果的五福一安电源就够了，再淘宝买个usb转公线就可以了
-<img src="https://github.com/ejunjsh/mycpu/raw/main/images/01.PNG" width="50%" height="50%">
+
+<img src="https://github.com/ejunjsh/mycpu/raw/main/images/01.jpeg" width="50%" height="50%">
 
 #### 电阻
 淘宝上买一袋袋的电阻，里面个种阻值都有
