@@ -16,7 +16,7 @@
 | 10   | 1kΩ 电阻               |
 | 9    | 10kΩ 电阻              |
 | 1    | 100kΩ 电阻             |
-| 24   | 470Ω 电阻              |
+| 24   | 220Ω 电阻              |
 | 1    | 1MΩ 电阻               |
 | 1    | 1MΩ 电位器             |
 | 6    | 0.01µF 电容            |
@@ -83,7 +83,7 @@
 
 <img src="https://github.com/ejunjsh/mycpu/raw/main/images/04.jpeg" width="50%" height="50%">
 
-电线记得买 _单芯_ 的ok线，规格是AWG22
+电线记得买 _单芯_ 的ok线，规格是AWG22.最好买各种颜色的，好看哈哈😄
 
 <img src="https://github.com/ejunjsh/mycpu/raw/main/images/13.jpeg" width="50%" height="50%">
 
