@@ -79,7 +79,7 @@
 <img src="https://github.com/ejunjsh/mycpu/raw/main/images/03.jpeg" width="50%" height="50%">
 
 #### 电线相关
-买个剪线钳，因为电线是AWG 22 规格，所以要买能剪这种线的
+买个剥线钳，因为电线是AWG 22 规格，所以要买能剥这种线的
 
 <img src="https://github.com/ejunjsh/mycpu/raw/main/images/04.jpeg" width="50%" height="50%">
 
