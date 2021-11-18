@@ -87,6 +87,10 @@
 
 <img src="https://github.com/ejunjsh/mycpu/raw/main/images/13.jpeg" width="50%" height="50%">
 
+如果需要买点面包版跳线，用来做实验好
+
+<img src="https://github.com/ejunjsh/mycpu/raw/main/images/14.jpeg" width="50%" height="50%">
+
 #### 芯片
 上面芯片的数量是搭建cpu用到的芯片数量，如果是那种只有一个的芯片，最好买多个，这样你可以在有问题的时候，能够确定是不是芯片的问题
 
