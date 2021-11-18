@@ -91,6 +91,10 @@
 
 <img src="https://github.com/ejunjsh/mycpu/raw/main/images/07.jpeg" width="50%" height="50%">
 
+#### 拨码开关
+
+<img src="https://github.com/ejunjsh/mycpu/raw/main/images/11.jpeg" width="50%" height="50%">
+
 #### LED
 淘宝买一袋袋的LED，各种颜色都有。
 
