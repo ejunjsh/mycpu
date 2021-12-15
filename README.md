@@ -1,6 +1,6 @@
 # mycpu
 
-八位cpu, 4个寄存器，16条指令
+八位cpu, 4个寄存器，11条指令
 
 <img src="https://github.com/ejunjsh/mycpu/raw/main/images/15.gif" width="50%" height="50%">
 
@@ -192,5 +192,6 @@
 
 这里相当于`x = 2 ; y = 5 ; product = x * y`, 并显示`product`,上面动图显示的就是这个例子
 
+-------------------------
 
 EOF
