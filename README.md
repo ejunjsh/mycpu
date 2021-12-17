@@ -141,7 +141,7 @@
 
 ## 实例代码
 
-下面指令程序都是可以跑在这个cpu上的
+下面视频里面的指令程序都是可以跑在这个cpu上的
 
 ### 加法
 
@@ -156,6 +156,8 @@
 
 上面代码相当于地址14里面的值和15里面的值相加， 然后显示2
 
+<img src="https://github.com/ejunjsh/mycpu/raw/main/images/16.gif" width="50%" height="50%">
+
 ### 累加
 
 ````
@@ -168,6 +170,26 @@
 ````
 
 上面代码相当于`i++`
+
+<img src="https://github.com/ejunjsh/mycpu/raw/main/images/17.gif" width="50%" height="50%">
+
+### 条件跳转测试
+
+````
+0:OUT      0000:1110 0000
+1:ADD 15   0001:0010 1111
+2:JC 4     0010:0111 0100
+3:JMP 0    0011:0110 0000
+4:SUB 15   0100:0011 1111
+5:OUT      0101:1110 0000
+6:JZ 0     0110:1000 0000
+7:JMP 4    0111:0110 0100
+15:1       1111:0000 0001
+````
+
+这段代码测试条件跳转指令`JZ`和`JC`
+
+<img src="https://github.com/ejunjsh/mycpu/raw/main/images/18.gif" width="50%" height="50%">
 
 ### 乘法
 
@@ -190,7 +212,9 @@
 15:y       1111:0000 0101
 ````
 
-这里相当于`x = 2 ; y = 5 ; product = x * y`, 并显示`product`,上面动图显示的就是这个例子
+这里相当于`x = 2 ; y = 5 ; product = x * y`, 并显示`product`
+
+<img src="https://github.com/ejunjsh/mycpu/raw/main/images/15.gif" width="50%" height="50%">
 
 -------------------------
 
